@@ -55,7 +55,7 @@ void callStream() {
       print('Stream is completed');
     },
   );
-  print('end');
+  print('already an end');
 }
 
 // iterable with the recursive function. where we are makking use of sync* and yield*

@@ -7,8 +7,8 @@ void main(List<String> args) async {
   // print(genericOperation(10.34, 20.3));
   // print(genericOperation1(10));
   // print(genericOperation1(10.23));
-  // print(genericOperation1(true));
-  // print(genericOperation1('String'));
+  // print(genericOperation2(true));
+  // print(genericOperation2('String'));
 
   // print(await getMessage());
   // Future.delayed(Duration(seconds: 2), () => 12).then((value) => print(value));
